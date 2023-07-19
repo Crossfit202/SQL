@@ -32,6 +32,8 @@ re: this was used to manipulate and format table names in regular expression.
 
 subprocess: The subprocess module is a standard library module that allows you to spawn new processes, connect to their input/output/error pipes, and obtain their return codes. I used this as a refresh on my program. 
 
+introductory hymn.sql - This is the database I created in MySQL. The code to forward engineer the database, as well as the hymns INSERT statement and all other queries I made to create the databse are in this sql file
+
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
